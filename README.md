@@ -295,8 +295,6 @@ swot_analysis.png
 job_fit.png
 ```
 
-*(Add screenshots after deployment for a richer GitHub presentation.)*
-
 ---
 
 # 👨‍💻 Developer
